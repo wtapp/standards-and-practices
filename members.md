@@ -278,6 +278,7 @@ Format:
 | Valerie Anderson | [valerietheblonde](https://github.com/valerietheblonde) | GIS Masters Student, interested in and afraid of programming. I do environmental work for farmers. |
 | Vicki Le | [vnle](https://github.com/vnle) ||
 | Vinit Ravishankar | [perseus0807](https://github.com/perseus0807) | Second year CS student, worked with C, C++, Python and Java, though also familiar with front-end web dev and basic systems programming. |
+| Wes Tapp | [wtapp](https://github.com/wtapp) | C++ Perl some Python |
 | Will Cusick | [Zare](https://github.com/Zare) ||
 | Will Usher | [Twinklebear](https://github.com/Twinklebear) | I have experience in C++ and some C#, and am learning Python, but am new to contributing to open source projects |
 | Xuku | [xuku] (https://github.com/xuku) | I'm new to programming; I know the basics of C++ and Python and am hoping to learn through working on projects. |
